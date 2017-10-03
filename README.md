@@ -49,3 +49,5 @@ Configure nginx to pass the authentication data to the backend application:
 * Install [CACert root certs](https://www.cacert.org/index.php?id=3) in server and client device.
 * Configure nginx, as above.
 
+## Information source: https://gist.github.com/mtigas/952344
+
